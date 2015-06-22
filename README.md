@@ -2,7 +2,7 @@ uhcx-xchat
 =========
 
 XChat / HexChat plugin to post shortened URLs to a channel or an user.
-Avoid sharing long or complicated URLs!
+Avoids sharing long or complicated URLs!
 
 # Usage:
 ``/uhcx http://your.long.url/``
