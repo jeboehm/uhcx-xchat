@@ -1,4 +1,13 @@
-UhcxXchat
+uhcx-xchat
 =========
 
-XChat Plugin to shorten links with uh.cx
+XChat / HexChat plugin to post shortened URLs to a channel or an user.
+Avoid sharing long or complicated URLs!
+
+# Usage:
+``/uhcx http://your.long.url/``
+
+See:
+ - http://uh.cx/
+ - http://xchat.org/
+ - https://hexchat.github.io/
